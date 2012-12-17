@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\BasicFont.spritefont</Source>
+      <Name>Fonts\BasicFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\bc_programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Fonts\BasicFont.xnb</Output>
+      <Time>2012-06-04T03:57:25.6959854-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\redcircle.png</Source>
+      <Name>Images\redcircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\redcircle.xnb</Output>
+      <Time>2012-06-05T18:53:10.4398062-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bluecircle.png</Source>
+      <Name>Images\bluecircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\bluecircle.xnb</Output>
+      <Time>2012-06-04T06:37:41.8069955-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\StatusbarFont.spritefont</Source>
+      <Name>Fonts\StatusbarFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Fonts\StatusbarFont.xnb</Output>
+      <Time>2012-06-17T17:39:51.5971402-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bclogo.png</Source>
+      <Name>Images\bclogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\bclogo.xnb</Output>
+      <Time>2012-06-04T23:30:39.2092641-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\basecampBCDodgerdisclaim.png</Source>
+      <Name>Images\basecampBCDodgerdisclaim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\basecampBCDodgerdisclaim.xnb</Output>
+      <Time>2012-06-05T01:51:22.1051701-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\whitespeck.png</Source>
+      <Name>Images\whitespeck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\whitespeck.xnb</Output>
+      <Time>2012-06-05T02:26:00.632055-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\menufont.spritefont</Source>
+      <Name>Fonts\menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Fonts\menufont.xnb</Output>
+      <Time>2012-06-05T16:56:30.5324344-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\arrow.png</Source>
+      <Name>Images\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\arrow.xnb</Output>
+      <Time>2012-06-17T18:12:39.2266822-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bcdodgertitle.png</Source>
+      <Name>Images\bcdodgertitle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\bcdodgertitle.xnb</Output>
+      <Time>2012-06-05T17:39:41.2236135-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\redspeck.png</Source>
+      <Name>Images\redspeck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\redspeck.xnb</Output>
+      <Time>2012-06-05T20:09:54.7271564-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\bcdodgerpause.png</Source>
+      <Name>Images\bcdodgerpause</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\bcdodgerpause.xnb</Output>
+      <Time>2012-06-08T04:58:03.3682377-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\dialogtitle.spritefont</Source>
+      <Name>Fonts\dialogtitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Fonts\dialogtitle.xnb</Output>
+      <Time>2012-06-09T11:13:16.3197022-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\whitepixel.png</Source>
+      <Name>Images\whitepixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\whitepixel.xnb</Output>
+      <Time>2012-06-17T17:31:59.3601298-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\monospace.spritefont</Source>
+      <Name>Fonts\monospace</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Fonts\monospace.xnb</Output>
+      <Time>2012-06-10T09:25:29.0385922-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\greencircle.png</Source>
+      <Name>Images\greencircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\greencircle.xnb</Output>
+      <Time>2012-06-11T11:26:15.9442542-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\yellowcircle.png</Source>
+      <Name>Images\yellowcircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\yellowcircle.xnb</Output>
+      <Time>2012-06-11T11:26:15.940254-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\greenspeck.png</Source>
+      <Name>Images\greenspeck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\greenspeck.xnb</Output>
+      <Time>2012-06-11T11:31:30.8502658-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\yellowspeck.png</Source>
+      <Name>Images\yellowspeck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\yellowspeck.xnb</Output>
+      <Time>2012-06-11T11:31:30.8462656-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\healyorb.png</Source>
+      <Name>Images\healyorb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\healyorb.xnb</Output>
+      <Time>2012-06-11T19:12:19.1586586-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\BasicFontLarge.spritefont</Source>
+      <Name>Fonts\BasicFontLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Fonts\BasicFontLarge.xnb</Output>
+      <Time>2012-06-17T17:41:06.9024474-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\toomanylogos.png</Source>
+      <Name>Images\toomanylogos</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\Images\toomanylogos.xnb</Output>
+      <Time>2012-06-17T18:26:14.1152911-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\DodgerX\DodgerX\DodgerXContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\DodgerX\DodgerX\DodgerX\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\DodgerX\DodgerX\DodgerXContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\DodgerX\DodgerX\DodgerX\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-05-16T18:24:16.7382974-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

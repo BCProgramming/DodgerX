@@ -1,0 +1,2 @@
+C:\Users\BC_Programming\documents\visual studio 2010\Projects\DodgerX\DodgerX\DodgerXContent\obj\x86\Debug\Audio\GameSounds.xml
+C:\Users\BC_Programming\Documents\Visual Studio 2010\Projects\DodgerX\DodgerX\DodgerXContent\obj\x86\Debug\DodgerXContent.contentprojResolveAssemblyReference.cache
